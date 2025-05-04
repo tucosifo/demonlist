@@ -1,27 +1,151 @@
 [
-    {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
+	{
+		"role": "owner",
+		"members": [
+			{
+				"name": 1463332925,
+				"link": "YeahSlayed"
+			},
+			{
+				"name": 9673459658,
+				"link": "Padahk"
+			}
+		]
+	},
+	{
+		"role": "admin",
+		"members": [
+			{
+				"name": 8212714352,
+				"link": "Kuzzi"
+			},
+			{
+				"name": 8485402626,
+				"link": "Laserduck42"
+			}
+		]
+	},
+	{
+		"role": "mod",
+		"members": [
+			{
+				"name": 9236945824,
+				"link": "faulheitsmensch"
+			},
+			{
+				"name": 6465029967,
+				"link": "Chubby"
+			},
+			{
+				"name": 1520919662,
+				"link": "Pentu"
+			},
+			{
+				"name": 7636475662,
+				"link": "gigile"
+			},
+			{
+				"name": 2952178822,
+				"link": "zac911"
+			},
+			{
+				"name": 4480972695,
+				"link": "[MHC] Shyne"
+			},
+			{
+				"name": 6516518134,
+				"link": "Majesstic"
+			},
+			{
+				"name": 8766402042,
+				"link": "JaydenvdH"
+			}
+		]
+	},
+	{
+		"role": "helper",
+		"members": [
+			{
+				"name": 8465315485,
+				"link": "Bobbyp02"
+			},
+			{
+				"name": 5840477346,
+				"link": "tylor"
+			},
+			{
+				"name": 9007829327,
+				"link": "GJosh2"
+			},
+			{
+				"name": 4689297262,
+				"link": "Aphelix"
+			},
+			{
+				"name": 8650904401,
+				"link": "Foxdee"
+			},
+			{
+				"name": 2247988474,
+				"link": "Loligerboy"
+			},
+			{
+				"name": 8411935000,
+				"link": "Waterbound"
+			},
+			{
+				"name": 3005744639,
+				"link": "Ysta"
+			},
+			{
+				"name": 1054710206,
+				"link": "Pixal"
+			},
+			{
+				"name": 2836413538,
+				"link": "JesulinyP"
+			},
+			{
+				"name": 6721491796,
+				"link": "[FOWL] TriggeredGMD"
+			},
+			{
+				"name": 4502219941,
+				"link": "Melted"
+			},
+			{
+				"name": 7268700769,
+				"link": "Willow"
+			}
+		]
+	},
+	{
+		"role": "dev",
+		"members": [
+			{
+				"name": 2108149776,
+				"link": "Simolater"
+			},
+			{
+				"name": 8121852012,
+				"link": "Infectus"
+			},
+			{
+				"name": 3459567445,
+				"link": "Oculations"
+			},
+			{
+				"name": 8853690433,
+				"link": "Minebox260"
+			},
+			{
+				"name": 4022875101,
+				"link": "Pixels"
+			},
+			{
+				"name": 6907348250,
+				"link": "sphericle"
+			}
+		]
+	}
 ]
